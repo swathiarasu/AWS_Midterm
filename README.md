@@ -1,4 +1,4 @@
-# Backup System with Replicator and Cleaner
+# AWS Midterm
 
 ## Overview
 This project builds an object backup system using:
